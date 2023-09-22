@@ -1,4 +1,4 @@
-<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlseDF0ZGF5bDYxbTd4OGJ1OHFlaDZqOWl3aDRibWJmaXg3eHYxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3htylOVIhOpUMO7GJ/giphy-downsized-large.gif" />
+<img width="100%" src="./assets/Colored-Particles-2and-lines-19.gif" />
 
 <h2>GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=ndoelger&show_icons=true&theme=radical&rank_icon=github" />
