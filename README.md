@@ -44,7 +44,7 @@ Picture me not as the stereotypical programmer confined to the shadows, but as a
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   </p>
 
-  <h3>💻Design</h3>
+  <h3>Design</h3>
 
   <p>
           <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
