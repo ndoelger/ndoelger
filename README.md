@@ -60,8 +60,8 @@ Picture me not as the stereotypical programmer confined to the shadows, but as a
 <hr style="height: .5px; border: none; color: #333; background-color: #333;"> <!-- This adds a thinner horizontal line -->
 
 <div style="display: flex">
-<img style= "height: 210px" src="https://github-readme-stats.vercel.app/api?username=ndoelger&show_icons=true&theme=radical&rank_icon=github" />
-<img style= "height: 210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndoelger&layout=compact&count_private=true&theme=radical" />
+<img style= "height: 190px" src="https://github-readme-stats.vercel.app/api?username=ndoelger&show_icons=true&theme=radical&rank_icon=github" />
+<img style= "height: 190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndoelger&layout=compact&count_private=true&theme=radical" />
 </div>
 
 <br>
